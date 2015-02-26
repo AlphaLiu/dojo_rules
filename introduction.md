@@ -7,4 +7,5 @@ My favorite codeschool path is RUBY path.
 * C
 * Html
 * CSS3
+* Killing history using git rebase
 
