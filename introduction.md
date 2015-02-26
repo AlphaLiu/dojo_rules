@@ -6,6 +6,5 @@ My favorite codeschool path is RUBY path.
 * Git
 * C
 * Html
-* Javascript
 * CSS3
 
